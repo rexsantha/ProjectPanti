@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectOrang</string>
+    <string name="set_error">Password kurang dari 6 ckarakter</string>
+    <string name="auth_failed">Auth Failed</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="descripsi_panti">Panti asuhan anak nugraha adalah panti asuhan yang dikelola oleh lembaga atau yayasan nasional beragam kegiatan yang edukatif selalu mengisi anak-anak yang tinggal di panti asuhan tersebut. Bahkan tak jarang orang luar, orang diluar panti asuhan juga mengadakan kegiatan sosial yang melibatkan \'Warga Panti\' tersebut.</string>
+    <string name="catatan_desc">contoh: saya harap dengan pemberian ini dapat mempermudah kalian</string>
+</resources>
