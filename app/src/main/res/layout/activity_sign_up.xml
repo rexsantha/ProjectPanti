@@ -53,18 +53,19 @@
             android:textColor="@color/white"
             android:textColorHint="@color/white"
             android:inputType="textPassword"/>
+
         <EditText
             android:id="@+id/re_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="14sp"
-            android:padding="12dp"
             android:layout_marginTop="12dp"
-            android:hint="Confirm Password"
             android:background="@color/edit_text"
-            android:textColorHint="@color/white"
+            android:hint="Confirm Password"
+            android:inputType="textPassword"
+            android:padding="12dp"
             android:textColor="@color/white"
-            android:inputType="textPassword"/>
+            android:textColorHint="@color/white"
+            android:textSize="14sp" />
         <Button
             android:id="@+id/daftar_btn"
             android:layout_marginTop="12dp"
